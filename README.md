@@ -1,1 +1,1 @@
-# mini-traash-project
+# mini-trash-project
